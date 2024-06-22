@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "name": "Nguyen A",
+      "username": "nguyena",
+      "email": "nguyena@gmail.com",
+      "phone": "0931234567",
+      "companiesId": "1",
+      "id": 1
+    },
+    {
+      "name": "Nguyen B",
+      "username": "nguyenb",
+      "email": "nguyenb@gmail.com",
+      "phone": "0931234568",
+      "companiesId": "2",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Nguyen C",
+      "username": "nguyenc",
+      "email": "nguyenc@gmail.com",
+      "phone": "0931234569",
+      "companiesId": "3"
+    },
+    {
+      "name": "Nguyen D",
+      "username": "nguyend",
+      "email": "nguyend@gmail.com",
+      "phone": "0931234570",
+      "companiesId": "1",
+      "id": 6
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Công Ty A",
+      "catchPhrase": "Company Front-End"
+    },
+    {
+      "id": 2,
+      "name": "Công Ty B",
+      "catchPhrase": "Company Back-End"
+    },
+    {
+      "id": 3,
+      "name": "Công Ty C",
+      "catchPhrase": "Company Full-Stack"
+    }
+  ]
+}

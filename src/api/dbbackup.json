@@ -1,0 +1,61 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "A",
+			"username": "a",
+			"email": "a@april.biz",
+			"phone": "989143548471",
+			"companiesId": "1"
+		},
+		{
+			"id": 2,
+			"name": "B",
+			"username": "b",
+			"email": "b@gmail.com",
+			"phone": "989332548474",
+			"companiesId": "2"
+		},
+		{
+			"id": 3,
+			"name": "C",
+			"username": "c",
+			"email": "c@april.biz",
+			"phone": "989215147848",
+			"companiesId": "2"
+		},
+		{
+			"id": 4,
+			"name": "D",
+			"username": "d",
+			"email": "d@gmail.com",
+			"phone": "989387845214",
+			"companiesId": "3"
+		},
+		{
+			"id": 5,
+			"name": "E",
+			"username": "e",
+			"email": "e@yahoo.com",
+			"phone": "989354812514",
+			"companiesId": "3"
+		}
+	],
+	"companies": [
+		{
+			"id": 1,
+			"name": "CongtyA",
+			"catchPhrase": "frontend"
+		},
+		{
+			"id": 2,
+			"name": "CongtyB",
+			"catchPhrase": "backend"
+		},
+		{
+			"id": 3,
+			"name": "CongtyC",
+			"catchPhrase": "fullstack"
+		}
+	]
+}
